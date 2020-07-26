@@ -10,7 +10,7 @@ public class CollectionCustomList {
 	 int Adding(String i)
 	 {
 		 AList.add(i);
-		 //System.out.println("Element added successfully");
+		 //System.out.println("Element added successfully")
 		 return 1;
 	 }
 	 
